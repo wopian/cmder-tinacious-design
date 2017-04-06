@@ -6,6 +6,13 @@
 
 Colours curated by Web and Mobile designer and developer Tina from [Tinacious Design](http://tinaciousdesign.com).
 
+## Usage
+
+1. Open Cmder's settings (<kbd>Win</kbd> <kbd>Alt</kbd> <kbd>P</kbd>)
+1. Navigate to `Features > Colors`
+1. Import `Tinacious.xml`
+1. Save settings
+
 ## Variations
 
 ### Dark
